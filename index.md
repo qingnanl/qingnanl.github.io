@@ -5,9 +5,9 @@ description: NR Zhang Lab Website
 
 ![Lab building](assets/pics/frontimage.jpeg)
 
-## Zhang Statistical Genomics Lab @ UPENN
+## Liang Computational Genomics Lab @ OUHSC
 
-We are a [multidisciplinary team](pages/team.html) working at the intersection of **Statistics**, **Computer Science**, and **Biology**, seeking new ways to think about and work with genomic data. 
+We aim at building a team of scholars working in **Computational Genomics**. 
 
 We are excited by the rich **new data types coming from recent technology**, such as single cell sequencing  and spatial transcriptomic sequencing/imaging. **These rich data types allow us to ask new questions about biological phenomena, and we like to cast these questions into quantitative models.**  
 
