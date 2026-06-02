@@ -1,6 +1,6 @@
 ---
 layout: page
-description: NR Zhang Lab Website
+description: Liang Lab Website
 ---
 
 ![Lab building](assets/pics/frontimage.jpeg)
