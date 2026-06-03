@@ -38,8 +38,12 @@ If you are currently enrolled in the Graduate Program in Biomedical Sciences pro
 **How to apply**: Please send your CV and the names of at least 2 referees to Qingnan: qingnan-liang@ou.edu. A paragraph describing your desired future research topics/fields/projects is optional but favored.
 
 <br/>
-![Lab photo 1](../assets/pictures/lab_photo_1.jpeg)
-![Lab photo 2](../assets/pictures/lab_photo_2.jpeg)
+
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+  <img src="{{ BASE_PATH }}/assets/pictures/lab_photo_1.jpeg" style="width: 45%; height: auto;" />
+  <img src="{{ BASE_PATH }}/assets/pictures/lab_photo_2.jpeg" style="width: 45%; height: auto;" />
+</div>
+
 <br/>
 
 ### Alumni
