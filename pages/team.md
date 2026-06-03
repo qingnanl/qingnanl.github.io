@@ -22,7 +22,7 @@ description: Lab Members
             Assistant Professor<br/>  	    
 	    <a href="https://medicine.ouhsc.edu/academic-departments/molecular-genetics-and-genome-sciences">Department of Molecular Genetics and Genome Sciences</a><br/>	     
             <a href="https://www.ouhealth.com/stephenson-cancer-center/cancer-research/">Stephenson Cancer Center</a><br/>	    
-	    <a href="../assets/QingnanLiang_cv_202606.pdf">Download my CV</a><br/>
+	    <a href="../assets/CV_QingnanLiang_202606.pdf">Download my CV</a><br/>
 	    My Email: qingnan-liang@ou.edu or qliang2016@gmail.com
         </div>
     </div>
