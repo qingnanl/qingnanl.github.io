@@ -5,11 +5,16 @@ description: Liang Lab Website
 
 ![Lab building](assets/pics/frontimage.jpeg)
 
-## Liang Computational Genomics Lab @ OUHSC
+## Liang Genomics Lab @ OUHSC
 
-We aim at building a team of scholars working in **Computational Genomics**. 
+We want to better understand human diseases, especially cancer, through a combinatorial approach of computational modeling and high-throughput experiments. Research topics of the lab will include: 
+1. Developing novel computational biology software, especially for single-cell and spatial genomics;
+2. Creative and knowledge-driven data mining;
+3. Developing high-throughput molecular biology and cell biology experiments.
 
-We are excited by the rich **new data types coming from recent technology**, such as single cell sequencing  and spatial transcriptomic sequencing/imaging. **These rich data types allow us to ask new questions about biological phenomena, and we like to cast these questions into quantitative models.**  
+Please find our research articles and software. We are open to discussions and collaborations. 
+
+We are building a team of scholars working in **Genomics** and **Computational Biology**. If you are interested, please contact the PI. 
 
 We strive to develop [transparent and scalable methods](pages/software.html), and apply these methods to answer questions in biology and medicine.
 
