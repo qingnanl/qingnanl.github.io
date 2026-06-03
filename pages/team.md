@@ -4,9 +4,6 @@ title: Meet the Lab!
 description: Lab Members
 ---
 
-![Lab photo 1](../assets/pictures/lab_photo_1.jpeg)
-![Lab photo 2](../assets/pictures/lab_photo_2.jpeg)
-
 <div class="container">
 
     <div class="row-fluid">
@@ -41,7 +38,8 @@ If you are currently enrolled in the Graduate Program in Biomedical Sciences pro
 **How to apply**: Please send your CV and the names of at least 2 referees to Qingnan: qingnan-liang@ou.edu. A paragraph describing your desired future research topics/fields/projects is optional but favored.
 
 <br/>
-
+![Lab photo 1](../assets/pictures/lab_photo_1.jpeg)
+![Lab photo 2](../assets/pictures/lab_photo_2.jpeg)
 <br/>
 
 ### Alumni
