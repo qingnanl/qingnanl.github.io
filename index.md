@@ -3,7 +3,7 @@ layout: page
 description: Liang Lab Website
 ---
 
-![Lab building](assets/pics/frontimage.jpeg)
+![OUHSC building](assets/pictures/front_pg.jpg)
 
 ## Liang Genomics Lab @ OUHSC
 
