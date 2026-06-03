@@ -4,8 +4,8 @@ title: Meet the Lab!
 description: Lab Members
 ---
 
-![Lab photo 1](../assets/pictures/lab_photo_1.jpg)
-![Lab photo 2](../assets/pictures/lab_photo_2.jpg)
+![Lab photo 1](../assets/pictures/lab_photo_1.jpeg)
+![Lab photo 2](../assets/pictures/lab_photo_2.jpeg)
 
 <div class="container">
 
