@@ -5,7 +5,7 @@ description: Liang Lab Website
 
 ![OUHSC building](assets/pictures/front_pg.jpg)
 
-## Liang Genomics Lab @ OUHSC
+## Liang Lab @ OUHSC
 
 We want to better understand human diseases, especially cancer, through a combinatorial approach of computational modeling and high-throughput experiments. Research topics of the lab will include: 
 1. Developing novel computational biology software, especially for single-cell and spatial genomics;
