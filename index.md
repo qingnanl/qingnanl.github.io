@@ -7,7 +7,9 @@ description: Liang Lab Website
 
 ## Liang Lab @ OUHSC
 
-We want to better understand human diseases, especially cancer, through a combinatorial approach of computational modeling and high-throughput experiments. One central question we pursue is: How is the plasticity of cancer cells influenced by their microenvironment, and what are the therapeutic implications? Research techniques of the lab will include: 
+We want to better understand human diseases, especially cancer, through a combinatorial approach of computational modeling and high-throughput experiments. One central question we pursue is: How is the plasticity of cancer cells influenced by their microenvironment, and what are the therapeutic implications? 
+
+We pursue the question with the following research techniques: 
 1. Developing novel computational biology software, especially for single-cell and spatial genomics;
 2. Creative and knowledge-driven data mining;
 3. Developing high-throughput molecular biology and cell biology experiments.
