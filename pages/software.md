@@ -3,7 +3,7 @@ layout: page
 title: Software
 description: List of software developed by our group
 ---
-**In reverse chronological order**
+**In reverse chronological order:**
 
 **LSGI** (spatial expression gradient analysis)(
 ([Github](https://github.com/qingnanl/LSGI))
