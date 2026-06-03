@@ -14,10 +14,4 @@ We want to better understand human diseases, especially cancer, through a combin
 
 Please find our research articles and software. We are open to discussions and collaborations. 
 
-We are building a team of scholars working in **Genomics** and **Computational Biology**. If you are interested, please contact the PI. 
-
-We strive to develop [transparent and scalable methods](pages/software.html), and apply these methods to answer questions in biology and medicine.
-
-We are looking for motivated students and postdocs to join us.  If you are interested, please contact the PI. 
-
- 
+We belong to the newly established [Department of Molecular Genetics and Genome Sciences](https://medicine.ouhsc.edu/academic-departments/molecular-genetics-and-genome-sciences) at OU College of Medicine, and we are affiliated with the [Stephenson Cancer Center](https://www.ouhealth.com/stephenson-cancer-center/), an NCI-designated cancer center. We are building a team of scholars working in **Genomics** and **Computational Biology**. If you are interested, please contact the PI. 
