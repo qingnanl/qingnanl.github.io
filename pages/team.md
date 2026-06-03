@@ -5,15 +5,15 @@ description: Lab Members
 ---
 
 ![Lab photo 1](../assets/pictures/lab_photo_1.jpg)
-![Lab photo 2](../assets/pics/lab_photo_2.jpg)
+![Lab photo 2](../assets/pictures/lab_photo_2.jpg)
 
 <div class="container">
 
     <div class="row-fluid">
         
         <div class="span2">
-            <a href="../assets/pics/283563_Liang_Q.jpg">
-            <img src="../assets/pics/283563_Liang_Q.jpg"
+            <a href="../assets/pictures/283563_Liang_Q.jpg">
+            <img src="../assets/pictures/283563_Liang_Q.jpg"
                   title="Qingnan Liang" alt="Qingnan Liang"  width="400"/></a>
         </div>
 
