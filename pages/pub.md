@@ -34,4 +34,4 @@ description: Publications
 
 <br/><br/> 
 
-**For complete list of pubs since, see [Google Scholar](https://scholar.google.com/citations?user=jh5pmk4AAAAJ&hl=en).**
+**For complete list of publications, see [Google Scholar](https://scholar.google.com/citations?user=jh5pmk4AAAAJ&hl=en).**
