@@ -4,31 +4,33 @@ title: Selected Publications
 description: Publications
 ---
 
-**Liang, Q.**, Soto, L.S., Haymaker, C., and Chen, K. (2025). LSGI: interpretable spatial gradient analysis for spatial transcriptomics data. **Genome Biology** 26, 238.
+**2025**
+* [LSGI: interpretable spatial gradient analysis for spatial transcriptomics data.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03500-5) <br/>**Liang, Q.**, Soto, L.S., Haymaker, C., and Chen, K. **Genome Biology** 26, 238 (2025).
+* [Depletion of effector regulatory T cells associates with major response to induction dual immune checkpoint blockade.](https://aacrjournals.org/cancerdiscovery/article/doi/10.1158/2159-8290.CD-24-1390/) <br/>Jiang, X., Rudqvist, N.P., Jiang, B., Ye, S., He, S., **Liang, Q.**, ... et al. **Cancer Discovery** 15(8), pp.1569–1592 (2025).
+* [CREM is a regulatory checkpoint of CAR and IL-15 signalling in NK cells.](https://www.nature.com/articles/s41586-025-09087-8) <br/>Rafei, H., Basar, R., Acharya, S., Hsu, Y.S., Liu, P., Zhang, D., Bohn, T., **Liang, Q.**, ... et al. **Nature** 643(8073), pp.1076–1086 (2025).
 
-Jiang, X., Rudqvist, N.P., Jiang, B., Ye, S., He, S., **Liang, Q.**, Dou, J., Williams, M.D., Dunn, J.D., Johnson, J.M. and Akagi, K., et al. (2025). Depletion of effector regulatory T cells associates with major response to induction dual immune checkpoint blockade. **Cancer Discovery**, 15(8), pp.1569-1592.
+**2024**
+* [Stem cell activity-coupled suppression of endogenous retrovirus governs adult tissue regeneration.](https://www.cell.com/cell/abstract/S0092-8674(24)01155-3) <br/>Lyu, Y., Kim, S.J., Humphrey, E.S., Nayak, R., Guan, Y., **Liang, Q.**, ... et al. **Cell** 187(26), pp.7414–7432 (2024).
 
-Rafei, H., Basar, R., Acharya, S., Hsu, Y.S., Liu, P., Zhang, D., Bohn, T., **Liang, Q.**, Mohanty, V., Upadhyay, R. and Li, P., et al. (2025). CREM is a regulatory checkpoint of CAR and IL-15 signalling in NK cells. **Nature**, 643(8073), pp.1076-1086.
+**2023**
+* [Pathway centric analysis for single-cell RNA-seq and spatial transcriptomics data with GSDensity.](https://doi.org/10.1038/s41467-023-44206-x) <br/>**Liang, Q.**, Huang, Y., He, S., and Chen, K. **Nature Communications** 14, 1–17 (2023).
+* [Single-cell multiomics of the human retina reveals hierarchical transcription factor collaboration in mediating cell type-specific effects of genetic variants on gene regulation.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03111-8) <br/>Wang, J., Cheng, X., **Liang, Q.**, Owen, L.A., Lu, J., ... et al. **Genome Biology** 24(1), p.269 (2023).
+* [A multi-omics atlas of the human retina at single-cell resolution.](https://doi.org/10.1016/J.XGEN.2023.100298) <br/>**Liang, Q.**, Cheng, X., Wang, J., Owen, L., Shakoor, A., ... et al. **Cell Genomics** 3, 100298 (2023).
+* [Spatial organization of the mouse retina at single cell resolution by MERFISH.](https://www.nature.com/articles/s41467-023-40334-4) <br/>Choi, J., Li, J., Ferdous, S., **Liang, Q.**, Moffitt, J.R., and Chen, R. **Nature Communications** 14(1), p.4929 (2023).
 
-Lyu, Y., Kim, S.J., Humphrey, E.S., Nayak, R., Guan, Y., **Liang, Q.**, Kim, K.H., Tan, Y., Dou, J., Sun, H. and Song, X., et al. (2024). Stem cell activity-coupled suppression of endogenous retrovirus governs adult tissue regeneration. **Cell**, 187(26), pp.7414-7432.
+**2022**
+* [Bi-order multimodal integration of single-cell data.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02679-x) <br/>Dou, J., Liang, S., Mohanty, V., Miao, Q., Huang, Y., **Liang, Q.**, ... et al. **Genome Biology** 23(1), p.112 (2022).
 
-**Liang, Q.**, Huang, Y., He, S., and Chen, K. (2023). Pathway centric analysis for single-cell RNA-seq and spatial transcriptomics data with GSDensity. **Nature Communications** 2023 14:1 14, 1–17. 10.1038/s41467-023-44206-x.
+**2021**
+* [Transcript isoforms of Reep6 have distinct functions in the retina.](https://doi.org/10.1093/HMG/DDAB157) <br/>**Liang, Q.**, Wu, N., Zaneveld, S., Liu, H., Fu, S., Wang, K., Bertrand, R., Wang, J., Li, Y., and Chen, R. **Human Molecular Genetics** 30, 1907–1918 (2021).
 
-Wang, J., Cheng, X., **Liang, Q.**, Owen, L.A., Lu, J., Zheng, Y., Wang, M., Chen, S., DeAngelis, M.M., Li, Y. and Chen, R., et al. (2023). Single-cell multiomics of the human retina reveals hierarchical transcription factor collaboration in mediating cell type-specific effects of genetic variants on gene regulation. **Genome biology**, 24(1), p.269.
+**2019**
+* [Single-nuclei RNA-seq on human retinal tissue provides improved transcriptome profiling.](https://doi.org/10.1038/s41467-019-12917-9) <br/>**Liang, Q.**, Dharmat, R., Owen, L., Shakoor, A., Li, Y., ... et al. **Nature Communications** 10, 1–12 (2019).
+* [A nonhuman primate model of inherited retinal disease.](https://www.jci.org/articles/view/123980) <br/>Moshiri, A., Chen, R., Kim, S., Harris, R.A., Li, Y., Raveendran, M., Davis, S., **Liang, Q.**, ... et al. **The Journal of Clinical Investigation** 129(2), pp.863–874 (2019).
 
-**Liang, Q.**, Cheng, X., Wang, J., Owen, L., Shakoor, A., Lillvis, J.L., Zhang, C., Farkas, M., Kim, I.K., Li, Y., et al. (2023). A multi-omics atlas of the human retina at single-cell resolution. **Cell Genomics** 3, 100298. 10.1016/J.XGEN.2023.100298.
+**2015**
+* [Structural insights on the catalytic site protection of human carbonyl reductase 1 by glutathione.](https://doi.org/10.1016/J.JSB.2015.09.005) <br/>**Liang, Q.**, Liu, R., Du, S., and Ding, Y. **Journal of Structural Biology** 192, 138–144 (2015).
 
-Choi, J., Li, J., Ferdous, S., **Liang, Q.**, Moffitt, J.R. and Chen, R. (2023). Spatial organization of the mouse retina at single cell resolution by MERFISH. **Nature Communications**, 14(1), p.4929.
-
-Dou, J., Liang, S., Mohanty, V., Miao, Q., Huang, Y., **Liang, Q.**, Cheng, X., Kim, S., Choi, J., Li, Y. and Li, L., et al. (2022). Bi-order multimodal integration of single-cell data. **Genome Biology**, 23(1), p.112.
-
-**Liang, Q.**, Wu, N., Zaneveld, S., Liu, H., Fu, S., Wang, K., Bertrand, R., Wang, J., Li, Y., and Chen, R. (2021). Transcript isoforms of Reep6 have distinct functions in the retina. **Hum Mol Genet** 30, 1907–1918. 10.1093/HMG/DDAB157.
-
-**Liang, Q.**, Dharmat, R., Owen, L., Shakoor, A., Li, Y., Kim, S., Vitale, A., Kim, I., Morgan, D., Liang, S., et al. (2019). Single-nuclei RNA-seq on human retinal tissue provides improved transcriptome profiling. **Nature Communications** 2019 10:1 10, 1–12. 10.1038/s41467-019-12917-9.
-
-Moshiri, A., Chen, R., Kim, S., Harris, R.A., Li, Y., Raveendran, M., Davis, S., **Liang, Q.**, Pomerantz, O., Wang, J. and Garzel, L., et al. (2019). A nonhuman primate model of inherited retinal disease. **The Journal of Clinical Investigation**, 129(2), pp.863-874.
-
-**Liang, Q.**, Liu, R., Du, S., and Ding, Y. (2015). Structural insights on the catalytic site protection of human carbonyl reductase 1 by glutathione. **J Struct Biol** 192, 138–144. 10.1016/J.JSB.2015.09.005.
 
 <br/><br/> 
 
