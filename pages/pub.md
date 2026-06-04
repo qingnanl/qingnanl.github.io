@@ -16,7 +16,7 @@ description: Publications
 * [Pathway centric analysis for single-cell RNA-seq and spatial transcriptomics data with GSDensity.](https://doi.org/10.1038/s41467-023-44206-x) <br/>**Liang, Q.**, Huang, Y., He, S., and Chen, K. **Nature Communications** 14, 1–17 (2023).
 * [Single-cell multiomics of the human retina reveals hierarchical transcription factor collaboration in mediating cell type-specific effects of genetic variants on gene regulation.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03111-8) <br/>Wang, J., Cheng, X., **Liang, Q.**, ... et al. **Genome Biology** 24(1), p.269 (2023).
 * [A multi-omics atlas of the human retina at single-cell resolution.](https://doi.org/10.1016/J.XGEN.2023.100298) <br/>**Liang, Q.**, Cheng, X., Wang, J., ... et al. **Cell Genomics** 3, 100298 (2023).
-* [Spatial organization of the mouse retina at single cell resolution by MERFISH.](https://www.nature.com/articles/s41467-023-40334-4) <br/>Choi, J., Li, J., Ferdous, S., **Liang, Q.**, Moffitt, J.R., and Chen, R. **Nature Communications** 14(1), p.4929 (2023).
+* [Spatial organization of the mouse retina at single cell resolution by MERFISH.](https://www.nature.com/articles/s41467-023-40674-3) <br/>Choi, J., Li, J., Ferdous, S., **Liang, Q.**, Moffitt, J.R., and Chen, R. **Nature Communications** 14(1), p.4929 (2023).
 
 **2022**
 * [Bi-order multimodal integration of single-cell data.](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02679-x) <br/>Dou, J., Liang, S., Mohanty, V., ... et al. **Genome Biology** 23(1), p.112 (2022).
