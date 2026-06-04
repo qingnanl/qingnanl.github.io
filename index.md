@@ -14,6 +14,6 @@ We pursue the question with the following research techniques:
 2. Creative and knowledge-driven data mining;
 3. Developing high-throughput molecular biology and cell biology experiments.
 
-Please find our research articles and software. We are open to discussions and collaborations. 
+Please find our [research articles](https://qingnanl.github.io/pages/pub.html) and [software](https://qingnanl.github.io/pages/software.html). We are open to discussions and collaborations. 
 
 We belong to the newly established [Department of Molecular Genetics and Genome Sciences](https://medicine.ouhsc.edu/academic-departments/molecular-genetics-and-genome-sciences) at OU College of Medicine, and we are affiliated with the [Stephenson Cancer Center](https://www.ouhealth.com/stephenson-cancer-center/), an NCI-designated cancer center. We are building a team of scholars working in **Genomics** and **Computational Biology**. If you are interested, please contact the PI. 
